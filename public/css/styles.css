@@ -1,0 +1,31 @@
+body {
+  /* background-image: url(../../assets/court-night.jpg);
+  background-size: cover; */
+  background-color: #efefef;
+}
+
+.deuce-logo-container {
+  left: 0;
+  margin-top: 0;
+  width: 100%;
+}
+
+.deuce-logo {
+  /* display: block;
+  margin:auto; */
+  max-width: 200px;
+  padding-bottom: 50px;
+}
+
+.court-image-container {
+  left: 0;
+  margin-top: 5%;
+  height: 25%;
+  width: 100%;
+}
+
+.court-image {
+  max-width: 600px;
+  display: block;
+  margin: auto;
+}
